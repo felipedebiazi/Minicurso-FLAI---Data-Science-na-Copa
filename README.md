@@ -1,1 +1,5 @@
 # ⚽ Minicurso FLAI Data Science na Copa
+
+- CRIAR UMA IA QUE PREVÊ RESULTADOS DE JOGOS DA COPA USANDO COMO PESO RANKING DA FIFA
+- CRIAR UM APLICATIVO WEB PELO FRAMEWORK STREAMLIT: https://felipedebiazi-minicurso-flai-data-science-na-copa-2022.streamlit.app/
+- CRIAR UMA IA QUE SIMULA A COPA INTEIRA!
